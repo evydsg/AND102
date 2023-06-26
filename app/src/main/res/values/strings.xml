@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloEvy</string>
+    <string name="text1">hello</string>
+    <string name="text2">I am Evy</string>
+    <string name="text3">nice to meet you</string>
+    <string name="text4">Click Here</string>
+    <string name="text5">Get to Know Me</string>
+    <string name="text6">Name: Evelise</string>
+    <string name="text7">Nick Name: Evy</string>
+    <string name="text8">Major:  Computer Science</string>
+    <string name="text9">Say Hello</string>
+</resources>
